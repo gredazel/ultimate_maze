@@ -1,0 +1,158 @@
+[
+    {
+        "utente1": "Gre",
+        "utente2": "Leo",
+        "mosse1": 2,
+        "tempo1": 1,
+        "labirinto": "sdczdasdasdasasds",
+        "tempo2": 2,
+        "mosse2": 2,
+        "vincitore": "Gre"
+    },
+    {
+        "utente1": "Leo",
+        "utente2": "Gre",
+        "mosse1": 8,
+        "tempo1": 5,
+        "labirinto": "Il preferito di Leo",
+        "tempo2": 4,
+        "mosse2": 8,
+        "vincitore": "Gre"
+    },
+    {
+        "utente1": "tos",
+        "utente2": "Gre",
+        "mosse1": 2,
+        "tempo1": 1,
+        "labirinto": "pi\u00f9 facile c'\u00e8?",
+        "tempo2": 2,
+        "mosse2": 2,
+        "vincitore": "tos"
+    },
+    {
+        "utente1": "p1",
+        "utente2": "Leo",
+        "mosse1": 21,
+        "tempo1": 8,
+        "labirinto": "casuale360",
+        "tempo2": 10,
+        "mosse2": 21,
+        "vincitore": "p1"
+    },
+    {
+        "utente1": "p1",
+        "utente2": "Leo",
+        "mosse1": 49,
+        "tempo1": 20,
+        "labirinto": "casuale1356",
+        "tempo2": 17,
+        "mosse2": 47,
+        "vincitore": "Leo"
+    },
+    {
+        "utente1": "Gre",
+        "utente2": "Leo",
+        "mosse1": 20,
+        "tempo1": 8,
+        "labirinto": "casuale360",
+        "tempo2": 7,
+        "mosse2": 20,
+        "vincitore": "Leo"
+    },
+    {
+        "utente1": "Gre",
+        "utente2": "p1",
+        "mosse1": 285,
+        "tempo1": 165,
+        "labirinto": "casuale470"
+    },
+    {
+        "utente1": "Leo",
+        "utente2": "Gre",
+        "mosse1": 24,
+        "tempo1": 24,
+        "labirinto": "casuale 15x15 facile"
+    },
+    {
+        "utente1": "Leo",
+        "utente2": "Gre",
+        "mosse1": 50,
+        "tempo1": 22,
+        "labirinto": "13x13 automatico"
+    },
+    {
+        "utente1": "Leo",
+        "utente2": "Gre",
+        "mosse1": 52,
+        "tempo1": 82,
+        "labirinto": "13x13 automatico"
+    },
+    {
+        "utente1": "Gre",
+        "utente2": "Leo",
+        "mosse1": 24,
+        "tempo1": 35,
+        "labirinto": "casuale360"
+    },
+    {
+        "utente1": "Gre",
+        "utente2": "Leo",
+        "mosse1": 23,
+        "tempo1": 20,
+        "labirinto": "si"
+    },
+    {
+        "utente1": "Gre",
+        "utente2": "p1",
+        "mosse1": 3,
+        "tempo1": 4,
+        "labirinto": ""
+    },
+    {
+        "utente1": "gre",
+        "utente2": "p1",
+        "mosse1": 8,
+        "tempo1": 9,
+        "labirinto": "quello fatto a caso e facile"
+    },
+    {
+        "utente1": "gre",
+        "utente2": "p1",
+        "mosse1": 4,
+        "tempo1": 5,
+        "labirinto": "",
+        "tempo2": 3,
+        "mosse2": 3,
+        "vincitore": "p1"
+    },
+    {
+        "utente1": "gre",
+        "utente2": "p1",
+        "mosse1": 68,
+        "tempo1": 85,
+        "labirinto": "generato casualmente",
+        "tempo2": 34,
+        "mosse2": 34,
+        "vincitore": "p1"
+    },
+    {
+        "utente1": "Gre",
+        "utente2": "Lio <3",
+        "mosse1": 15,
+        "tempo1": 11,
+        "labirinto": "Il preferito di Leo",
+        "tempo2": 16,
+        "mosse2": 20,
+        "vincitore": "Gre"
+    },
+    {
+        "utente1": "Lio <3",
+        "utente2": "Gre",
+        "mosse1": 70,
+        "tempo1": 73,
+        "labirinto": "largo largo :P",
+        "tempo2": 57,
+        "mosse2": 75,
+        "vincitore": "Gre"
+    }
+]
